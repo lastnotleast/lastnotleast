@@ -1,6 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-mourajp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruna-mourao-50/?locale=en_US)](https://www.linkedin.com/in/bruna-mourao-50/?locale=en_US)
-
-I'm Bruna Mourão, a computer engineer, working as Tech Lead in a software company.
+<a href="https://www.linkedin.com/in/bruna-mourao-50/?locale=en_US" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="20" height="20"/></a> I'm Bruna Mourão, a computer engineer, working as Tech Lead in a software company.
 
 - 🔭 I’m currently working with .NET Core in backend and Vue.js in frontend.
 - 🌱 I’m currently learning more about DevOps and how to improve CI/CD with Azure Devops.
